@@ -36,12 +36,16 @@
 🗒️ スライドはこちら
 → https://speakerdeck.com/syotasasaki593876/zai-hai-gake-xue-nibian-watutashun-jian-1755nian-risubonda-zhen-zai-wojing-nike-xue-hadoubian-watutaka
 
+🗣️ 日本語以外の言語のダビング音声の作成に以下のプロジェクトを利用しています
+
+・ https://github.com/Softcatala/open-dubbing
+
 👩‍🎨 アバターについて
 以下のアバターや衣装、髪型、アクセサリーを利用しています
 
-・かなﾘぁさんち オリジナル3Dモデル【ハオランーHAOLAN】: https://booth.pm/ja/items/3818504
-・ange-shop 【21アバター対応】Abend Dress: https://ange-shop.booth.pm/items/7616116
-・きりはら製作所 H17 おだんごツインテール: https://kiriha-astra.booth.pm/items/6551152
+・ かなﾘぁさんち オリジナル3Dモデル【ハオランーHAOLAN】: https://booth.pm/ja/items/3818504
+・ ange-shop 【21アバター対応】Abend Dress: https://ange-shop.booth.pm/items/7616116
+・ きりはら製作所 H17 おだんごツインテール: https://kiriha-astra.booth.pm/items/6551152
 
 💬 コメントや感想も気軽にどうぞ！
 🔔 チャンネル登録もしてくれたら嬉しいです！ → https://www.youtube.com/@SaMe-Giraffe
@@ -62,8 +66,8 @@ Vol. 26, No. 2 (2007), pp. 321-370
 音楽：BGMer
 http://bgmer.net
 
-フリーBGM [角砂糖をもうひとつ]: https://youtu.be/C-BPLNilIhM?si=AwYN9diy2OcaNp6X
-フリーBGM [眠れる世界樹]: https://youtu.be/e4gggZ9Louc?si=Er97iMneay5Vjtj1
+・ フリーBGM [角砂糖をもうひとつ]: https://youtu.be/C-BPLNilIhM?si=AwYN9diy2OcaNp6X
+・ フリーBGM [眠れる世界樹]: https://youtu.be/e4gggZ9Louc?si=Er97iMneay5Vjtj1
 
 🔑 キーワード（for SEO）
 1755年リスボン大震災, リスボン地震, 地震学, 科学史, カント, ジョン・ミッチェル, ロバート・マレット, 英国王立協会, 津波, 自然災害, 啓蒙思想, Seismology, ポルトガル, 地震波, 震源, 近代科学
